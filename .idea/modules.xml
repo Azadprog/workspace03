@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/java/project01/project01.iml" filepath="$PROJECT_DIR$/java/project01/project01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/project02/project02.iml" filepath="$PROJECT_DIR$/java/project02/project02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/project03/project03.iml" filepath="$PROJECT_DIR$/java/project03/project03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/project04/project04.iml" filepath="$PROJECT_DIR$/java/project04/project04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/project05/project05.iml" filepath="$PROJECT_DIR$/java/project05/project05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/project06/project06.iml" filepath="$PROJECT_DIR$/java/project06/project06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/project07/project07.iml" filepath="$PROJECT_DIR$/java/project07/project07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/project08/project08.iml" filepath="$PROJECT_DIR$/java/project08/project08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/project10/project10.iml" filepath="$PROJECT_DIR$/java/project10/project10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/project11/project11.iml" filepath="$PROJECT_DIR$/java/project11/project11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/project12/project12.iml" filepath="$PROJECT_DIR$/java/project12/project12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/project13/project13.iml" filepath="$PROJECT_DIR$/java/project13/project13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/project15/project15.iml" filepath="$PROJECT_DIR$/java/project15/project15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/project16/project16.iml" filepath="$PROJECT_DIR$/java/project16/project16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/project17/project17.iml" filepath="$PROJECT_DIR$/java/project17/project17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/project18/project18.iml" filepath="$PROJECT_DIR$/java/project18/project18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/workspace.iml" filepath="$PROJECT_DIR$/.idea/workspace.iml" />
+    </modules>
+  </component>
+</project>

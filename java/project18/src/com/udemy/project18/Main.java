@@ -1,4 +1,4 @@
-package udemy.com.project18;
+package com.udemy.project18;
 
 public class Main {
     public static void main(String[] args) {

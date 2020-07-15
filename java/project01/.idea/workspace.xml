@@ -1,8 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f1d731a3-16ad-4812-aecd-1e02e745b7d3" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="f1d731a3-16ad-4812-aecd-1e02e745b7d3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../project19/src/com/udemy/project19/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project19/src/com/udemy/project19/Feedable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project19/src/com/udemy/project19/Goat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project19/src/com/udemy/project19/Lion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project01/META-INF/project01.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project01/com/udemy/project01/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project01/com/udemy/project01/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project01/com/udemy/project01/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project01/com/udemy/project01/.idea/dictionaries/AzadKillaz94.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project01/com/udemy/project01/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project01/com/udemy/project01/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project01/com/udemy/project01/.idea/project01.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project01/com/udemy/project01/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project01/com/udemy/project01/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project01/com/udemy/project01/HelloWorld.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project17/out/production/project17/com/udemy/project17/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../project17/out/production/project17/com/udemy/project17/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project17/out/production/project17/com/udemy/project17/MinutesToYearsDaysCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../project17/out/production/project17/com/udemy/project17/MinutesToYearsDaysCalculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project18/src/udemy/com/project18/AreaCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../project18/src/com/udemy/project18/AreaCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project18/src/udemy/com/project18/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../project18/src/com/udemy/project18/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,33 +40,20 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="IgnoredFileRootStore">
-    <option name="generatedRoots">
-      <set>
-        <option value="C:\Users\AzadKillaz94\Documents\workspace\java\project01\.idea" />
-      </set>
-    </option>
-  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1Py0H4z6Bp2RJdtKvoNKIcZLZuo" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/project10" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunManager">
     <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -95,13 +101,12 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
@@ -110,5 +115,23 @@
     </ignored-roots>
     <MESSAGE value="adding project01" />
     <option name="LAST_COMMIT_MESSAGE" value="adding project01" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="917" height="275" key="GridCell.Tab.0.bottom" timestamp="1592235658459">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="917" height="275" key="GridCell.Tab.0.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1592235658459" />
+    <state width="917" height="275" key="GridCell.Tab.0.center" timestamp="1592235658458">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="917" height="275" key="GridCell.Tab.0.center/72.27.1848.1053@72.27.1848.1053" timestamp="1592235658458" />
+    <state width="917" height="275" key="GridCell.Tab.0.left" timestamp="1592235658458">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="917" height="275" key="GridCell.Tab.0.left/72.27.1848.1053@72.27.1848.1053" timestamp="1592235658458" />
+    <state width="917" height="275" key="GridCell.Tab.0.right" timestamp="1592235658459">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="917" height="275" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1592235658459" />
   </component>
 </project>
