@@ -4,48 +4,53 @@ public class Goat  extends Animal implements Feedable {
 
 private String favoriteFood;
 
-public Goat() {
-this("fidle", "hit",56, "hhuih");
+public Goat(){
+this("Default name","Default  generation", 8 , "Grass1");
 
-};
+    }
 
-public Goat (String name, String generation){
-this(name, generation,0, "lopp");
+public Goat(String name , String generation ){
 
-};
-public Goat (String name , String generation , int age){
-this(name,generation, age, "Hei");
 
+this(name, generation , 50 ,"Grass2" );
 
 }
 
-public Goat (String name , String generation , int age , String favoriteFood){
+ public Goat (String name , String generation , int age , String favoriteFood){
     super(name,generation,age);
-this.favoriteFood =  favoriteFood;
+    this.favoriteFood =  favoriteFood;
+
 
 
     }
 
-    public void  setFavoriteFood(String favoriteFood){
+    public String getFavoriteFood() {
+        return favoriteFood;
+    }
 
-    this.favoriteFood = favoriteFood;
-
-
-}
-public String getFavoriteFood(){
-    return  favoriteFood;
-}
-
-
-@Override
-    public String feedAnimal(String food){
-    System.out.println("hello");
-    return  null;
-
-}
+    public void setFavoriteFood(String favoriteFood) {
+        this.favoriteFood = favoriteFood;
+    }
 
     @Override
+    public String feedAnimal(String food) {
+        if (food != getFavoriteFood()) {
+
+            return "the food is not good";
+
+        } else {
+       return   "the food is good yum";
+        }
+
+    }
+    @Override
     public String toString() {
-        return "My name is " + name + "genertion of "+ generation + " an i am "+ age + "." + "I am pleased if you feed me" +favoriteFood ;
+
+        return "My name is " + getName() +
+                "\nI am generation: " + getGeneration() +
+                "\nAnd I am : " + getAge() +
+                "\nI'm pleased if you feed me my favoite food: " + getFavoriteFood().toString();
+
+
     }
 }
